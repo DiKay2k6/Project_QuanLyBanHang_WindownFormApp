@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|d:\\l\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\windowsformsapp_quanlybanhang\\windowsformsapp_quanlybanhang\\frmphanloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|solutionrelative:windowsformsapp_quanlybanhang\\frmphanloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|d:\\l\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\windowsformsapp_quanlybanhang\\windowsformsapp_quanlybanhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|solutionrelative:windowsformsapp_quanlybanhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|d:\\l\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\windowsformsapp_quanlybanhang\\windowsformsapp_quanlybanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|solutionrelative:windowsformsapp_quanlybanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp_QuanLyBanHang\\Program.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp_QuanLyBanHang\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T15:17:45.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPhanLoai.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang\\frmPhanLoai.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp_QuanLyBanHang\\frmPhanLoai.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang\\frmPhanLoai.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp_QuanLyBanHang\\frmPhanLoai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T14:44:05.209Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp_QuanLyBanHang\\Form1.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp_QuanLyBanHang\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T13:45:47.579Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
