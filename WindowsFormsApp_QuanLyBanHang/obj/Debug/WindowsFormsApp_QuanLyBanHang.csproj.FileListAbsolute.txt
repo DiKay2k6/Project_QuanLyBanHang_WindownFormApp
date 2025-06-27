@@ -9,3 +9,4 @@ D:\Lập trình chương trình\WindowsFormsApp_QuanLyBanHang\WindowsFormsApp_Qu
 D:\Lập trình chương trình\WindowsFormsApp_QuanLyBanHang\WindowsFormsApp_QuanLyBanHang\obj\Debug\WindowsFormsApp_QuanLyBanHang.exe
 D:\Lập trình chương trình\WindowsFormsApp_QuanLyBanHang\WindowsFormsApp_QuanLyBanHang\obj\Debug\WindowsFormsApp_QuanLyBanHang.pdb
 D:\Lập trình chương trình\WindowsFormsApp_QuanLyBanHang\WindowsFormsApp_QuanLyBanHang\obj\Debug\WindowsFormsApp_QuanLyBanHang.frmPhanLoai.resources
+D:\Lập trình chương trình\WindowsFormsApp_QuanLyBanHang\WindowsFormsApp_QuanLyBanHang\obj\Debug\WindowsFormsApp_QuanLyBanHang.frmDMHangHoa.resources

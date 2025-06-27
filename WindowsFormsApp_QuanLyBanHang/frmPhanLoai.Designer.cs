@@ -30,19 +30,19 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmPhanLoai));
             this.panel1 = new System.Windows.Forms.Panel();
-            this.btnThem = new System.Windows.Forms.Button();
-            this.btnXoa = new System.Windows.Forms.Button();
-            this.btnSua = new System.Windows.Forms.Button();
-            this.btnLuu = new System.Windows.Forms.Button();
-            this.btnBoQua = new System.Windows.Forms.Button();
             this.btnDong = new System.Windows.Forms.Button();
+            this.btnBoQua = new System.Windows.Forms.Button();
+            this.btnLuu = new System.Windows.Forms.Button();
+            this.btnSua = new System.Windows.Forms.Button();
+            this.btnXoa = new System.Windows.Forms.Button();
+            this.btnThem = new System.Windows.Forms.Button();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.dgvPhanLoai = new System.Windows.Forms.DataGridView();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
+            this.txtLoaiSanPham = new System.Windows.Forms.TextBox();
             this.txtMaPhanLoai = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
-            this.txtLoaiSanPham = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.dgvPhanLoai = new System.Windows.Forms.DataGridView();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvPhanLoai)).BeginInit();
@@ -62,64 +62,72 @@
             this.panel1.Size = new System.Drawing.Size(800, 66);
             this.panel1.TabIndex = 0;
             // 
-            // btnThem
+            // btnDong
             // 
-            this.btnThem.Image = ((System.Drawing.Image)(resources.GetObject("btnThem.Image")));
-            this.btnThem.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnThem.Location = new System.Drawing.Point(115, 13);
-            this.btnThem.Name = "btnThem";
-            this.btnThem.Size = new System.Drawing.Size(85, 41);
-            this.btnThem.TabIndex = 0;
-            this.btnThem.Text = " Thêm";
-            this.btnThem.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.btnThem.UseVisualStyleBackColor = true;
+            this.btnDong.Image = ((System.Drawing.Image)(resources.GetObject("btnDong.Image")));
+            this.btnDong.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnDong.Location = new System.Drawing.Point(615, 13);
+            this.btnDong.Name = "btnDong";
+            this.btnDong.Size = new System.Drawing.Size(95, 41);
+            this.btnDong.TabIndex = 0;
+            this.btnDong.Text = "   Đóng";
+            this.btnDong.UseVisualStyleBackColor = true;
+            // 
+            // btnBoQua
+            // 
+            this.btnBoQua.Image = ((System.Drawing.Image)(resources.GetObject("btnBoQua.Image")));
+            this.btnBoQua.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnBoQua.Location = new System.Drawing.Point(510, 13);
+            this.btnBoQua.Name = "btnBoQua";
+            this.btnBoQua.Size = new System.Drawing.Size(95, 41);
+            this.btnBoQua.TabIndex = 0;
+            this.btnBoQua.Text = "   Bỏ qua";
+            this.btnBoQua.UseVisualStyleBackColor = true;
+            // 
+            // btnLuu
+            // 
+            this.btnLuu.Image = ((System.Drawing.Image)(resources.GetObject("btnLuu.Image")));
+            this.btnLuu.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnLuu.Location = new System.Drawing.Point(405, 13);
+            this.btnLuu.Name = "btnLuu";
+            this.btnLuu.Size = new System.Drawing.Size(95, 41);
+            this.btnLuu.TabIndex = 0;
+            this.btnLuu.Text = " Lưu";
+            this.btnLuu.UseVisualStyleBackColor = true;
+            // 
+            // btnSua
+            // 
+            this.btnSua.Image = ((System.Drawing.Image)(resources.GetObject("btnSua.Image")));
+            this.btnSua.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnSua.Location = new System.Drawing.Point(300, 13);
+            this.btnSua.Name = "btnSua";
+            this.btnSua.Size = new System.Drawing.Size(95, 41);
+            this.btnSua.TabIndex = 0;
+            this.btnSua.Text = " Sửa";
+            this.btnSua.UseVisualStyleBackColor = true;
             // 
             // btnXoa
             // 
             this.btnXoa.Image = ((System.Drawing.Image)(resources.GetObject("btnXoa.Image")));
             this.btnXoa.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnXoa.Location = new System.Drawing.Point(216, 13);
+            this.btnXoa.Location = new System.Drawing.Point(195, 13);
             this.btnXoa.Name = "btnXoa";
-            this.btnXoa.Size = new System.Drawing.Size(85, 41);
+            this.btnXoa.Size = new System.Drawing.Size(95, 41);
             this.btnXoa.TabIndex = 0;
             this.btnXoa.Text = "   Xóa";
             this.btnXoa.UseVisualStyleBackColor = true;
             // 
-            // btnSua
+            // btnThem
             // 
-            this.btnSua.Location = new System.Drawing.Point(312, 13);
-            this.btnSua.Name = "btnSua";
-            this.btnSua.Size = new System.Drawing.Size(85, 41);
-            this.btnSua.TabIndex = 0;
-            this.btnSua.Text = "Sửa";
-            this.btnSua.UseVisualStyleBackColor = true;
-            // 
-            // btnLuu
-            // 
-            this.btnLuu.Location = new System.Drawing.Point(408, 13);
-            this.btnLuu.Name = "btnLuu";
-            this.btnLuu.Size = new System.Drawing.Size(85, 41);
-            this.btnLuu.TabIndex = 0;
-            this.btnLuu.Text = "Lưu";
-            this.btnLuu.UseVisualStyleBackColor = true;
-            // 
-            // btnBoQua
-            // 
-            this.btnBoQua.Location = new System.Drawing.Point(504, 13);
-            this.btnBoQua.Name = "btnBoQua";
-            this.btnBoQua.Size = new System.Drawing.Size(85, 41);
-            this.btnBoQua.TabIndex = 0;
-            this.btnBoQua.Text = "Bỏ qua";
-            this.btnBoQua.UseVisualStyleBackColor = true;
-            // 
-            // btnDong
-            // 
-            this.btnDong.Location = new System.Drawing.Point(600, 13);
-            this.btnDong.Name = "btnDong";
-            this.btnDong.Size = new System.Drawing.Size(85, 41);
-            this.btnDong.TabIndex = 0;
-            this.btnDong.Text = "Đóng";
-            this.btnDong.UseVisualStyleBackColor = true;
+            this.btnThem.Image = ((System.Drawing.Image)(resources.GetObject("btnThem.Image")));
+            this.btnThem.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnThem.Location = new System.Drawing.Point(90, 13);
+            this.btnThem.Name = "btnThem";
+            this.btnThem.Size = new System.Drawing.Size(95, 41);
+            this.btnThem.TabIndex = 0;
+            this.btnThem.Text = " Thêm";
+            this.btnThem.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.btnThem.UseVisualStyleBackColor = true;
             // 
             // panel2
             // 
@@ -134,36 +142,12 @@
             this.panel2.Size = new System.Drawing.Size(800, 139);
             this.panel2.TabIndex = 1;
             // 
-            // dgvPhanLoai
+            // txtLoaiSanPham
             // 
-            this.dgvPhanLoai.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvPhanLoai.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.dgvPhanLoai.Location = new System.Drawing.Point(0, 139);
-            this.dgvPhanLoai.Name = "dgvPhanLoai";
-            this.dgvPhanLoai.RowHeadersWidth = 51;
-            this.dgvPhanLoai.RowTemplate.Height = 24;
-            this.dgvPhanLoai.Size = new System.Drawing.Size(800, 245);
-            this.dgvPhanLoai.TabIndex = 2;
-            // 
-            // label1
-            // 
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.Blue;
-            this.label1.Location = new System.Drawing.Point(279, 9);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(270, 32);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Danh mục phân loại";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(24, 53);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(109, 20);
-            this.label2.TabIndex = 1;
-            this.label2.Text = "Mã phân loại:";
+            this.txtLoaiSanPham.Location = new System.Drawing.Point(207, 92);
+            this.txtLoaiSanPham.Name = "txtLoaiSanPham";
+            this.txtLoaiSanPham.Size = new System.Drawing.Size(241, 22);
+            this.txtLoaiSanPham.TabIndex = 2;
             // 
             // txtMaPhanLoai
             // 
@@ -182,12 +166,36 @@
             this.label3.TabIndex = 1;
             this.label3.Text = "Tên loại sản phẩm:";
             // 
-            // txtLoaiSanPham
+            // label2
             // 
-            this.txtLoaiSanPham.Location = new System.Drawing.Point(207, 92);
-            this.txtLoaiSanPham.Name = "txtLoaiSanPham";
-            this.txtLoaiSanPham.Size = new System.Drawing.Size(241, 22);
-            this.txtLoaiSanPham.TabIndex = 2;
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(24, 53);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(109, 20);
+            this.label2.TabIndex = 1;
+            this.label2.Text = "Mã phân loại:";
+            // 
+            // label1
+            // 
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.Color.Blue;
+            this.label1.Location = new System.Drawing.Point(279, 9);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(270, 32);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Danh mục phân loại";
+            // 
+            // dgvPhanLoai
+            // 
+            this.dgvPhanLoai.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvPhanLoai.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.dgvPhanLoai.Location = new System.Drawing.Point(0, 139);
+            this.dgvPhanLoai.Name = "dgvPhanLoai";
+            this.dgvPhanLoai.RowHeadersWidth = 51;
+            this.dgvPhanLoai.RowTemplate.Height = 24;
+            this.dgvPhanLoai.Size = new System.Drawing.Size(800, 245);
+            this.dgvPhanLoai.TabIndex = 2;
             // 
             // frmPhanLoai
             // 

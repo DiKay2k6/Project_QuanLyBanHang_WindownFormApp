@@ -16,7 +16,7 @@ namespace WindowsFormsApp_QuanLyBanHang
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmPhanLoai());
+            Application.Run(new frmDMHangHoa());
         }
     }
 }
