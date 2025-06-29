@@ -12,3 +12,4 @@ D:\Lập trình chương trình\WindowsFormsApp_QuanLyBanHang\WindowsFormsApp_Qu
 D:\Lập trình chương trình\WindowsFormsApp_QuanLyBanHang\WindowsFormsApp_QuanLyBanHang\obj\Debug\WindowsFormsApp_QuanLyBanHang.frmDMHangHoa.resources
 D:\Lập trình chương trình\WindowsFormsApp_QuanLyBanHang\WindowsFormsApp_QuanLyBanHang\obj\Debug\WindowsFormsApp_QuanLyBanHang.frmDMKhachHang.resources
 D:\Lập trình chương trình\WindowsFormsApp_QuanLyBanHang\WindowsFormsApp_QuanLyBanHang\obj\Debug\WindowsFormsApp_QuanLyBanHang.frmDMNhanVien.resources
+D:\Lập trình chương trình\WindowsFormsApp_QuanLyBanHang\WindowsFormsApp_QuanLyBanHang\obj\Debug\WindowsFormsApp_QuanLyBanHang.frmHoaDonBan.resources

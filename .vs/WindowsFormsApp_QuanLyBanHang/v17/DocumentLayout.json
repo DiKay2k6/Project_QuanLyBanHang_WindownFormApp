@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|d:\\l\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\windowsformsapp_quanlybanhang\\windowsformsapp_quanlybanhang\\frmdmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|solutionrelative:windowsformsapp_quanlybanhang\\frmdmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\windowsformsapp_quanlybanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|solutionrelative:windowsformsapp_quanlybanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|d:\\l\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\windowsformsapp_quanlybanhang\\windowsformsapp_quanlybanhang\\frmdmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|solutionrelative:windowsformsapp_quanlybanhang\\frmdmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\windowsformsapp_quanlybanhang\\frmdmhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|solutionrelative:windowsformsapp_quanlybanhang\\frmdmhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|d:\\l\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\windowsformsapp_quanlybanhang\\windowsformsapp_quanlybanhang\\frmhoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|solutionrelative:windowsformsapp_quanlybanhang\\frmhoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\windowsformsapp_quanlybanhang\\frmphanloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|solutionrelative:windowsformsapp_quanlybanhang\\frmphanloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|d:\\l\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\windowsformsapp_quanlybanhang\\windowsformsapp_quanlybanhang\\frmdmhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|solutionrelative:windowsformsapp_quanlybanhang\\frmdmhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\windowsformsapp_quanlybanhang\\frmdmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|solutionrelative:windowsformsapp_quanlybanhang\\frmdmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\windowsformsapp_quanlybanhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|solutionrelative:windowsformsapp_quanlybanhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\windowsformsapp_quanlybanhang\\frmdmhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|solutionrelative:windowsformsapp_quanlybanhang\\frmdmhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|d:\\l\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\windowsformsapp_quanlybanhang\\windowsformsapp_quanlybanhang\\frmdmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|solutionrelative:windowsformsapp_quanlybanhang\\frmdmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|d:\\l\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\windowsformsapp_quanlybanhang\\windowsformsapp_quanlybanhang\\frmhoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|solutionrelative:windowsformsapp_quanlybanhang\\frmhoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\windowsformsapp_quanlybanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|solutionrelative:windowsformsapp_quanlybanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\windowsformsapp_quanlybanhang\\frmdmhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00F21F66-0528-437F-A8E1-8124E21ED85C}|WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang.csproj|solutionrelative:windowsformsapp_quanlybanhang\\frmdmhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,52 +51,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmDMNhanVien.cs [Design]",
-              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang\\frmDMNhanVien.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp_QuanLyBanHang\\frmDMNhanVien.cs",
-              "ToolTip": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang\\frmDMNhanVien.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp_QuanLyBanHang\\frmDMNhanVien.cs [Design]",
+              "Title": "frmHoaDonBan.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang\\frmHoaDonBan.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp_QuanLyBanHang\\frmHoaDonBan.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang\\frmHoaDonBan.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp_QuanLyBanHang\\frmHoaDonBan.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T14:51:27.294Z",
+              "WhenOpened": "2025-06-29T14:30:48.594Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "frmDMHangHoa.cs",
-              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang\\frmDMHangHoa.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp_QuanLyBanHang\\frmDMHangHoa.cs",
-              "ToolTip": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang\\frmDMHangHoa.cs",
-              "RelativeToolTip": "WindowsFormsApp_QuanLyBanHang\\frmDMHangHoa.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBEAAAAJAAAAAAAAAA==",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp_QuanLyBanHang\\Form1.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp_QuanLyBanHang\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T16:36:27.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmPhanLoai.cs [Design]",
-              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang\\frmPhanLoai.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp_QuanLyBanHang\\frmPhanLoai.cs",
-              "ToolTip": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang\\frmPhanLoai.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp_QuanLyBanHang\\frmPhanLoai.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T14:44:05.209Z",
+              "WhenOpened": "2025-06-27T13:45:47.579Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang\\Program.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp_QuanLyBanHang\\Program.cs",
-              "ToolTip": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang\\Program.cs",
-              "RelativeToolTip": "WindowsFormsApp_QuanLyBanHang\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T15:17:45.435Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -104,7 +86,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "frmPhanLoai.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang\\frmPhanLoai.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp_QuanLyBanHang\\frmPhanLoai.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang\\frmPhanLoai.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp_QuanLyBanHang\\frmPhanLoai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T14:44:05.209Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "frmDMHangHoa.cs [Design]",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang\\frmDMHangHoa.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp_QuanLyBanHang\\frmDMHangHoa.cs",
@@ -116,15 +110,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang\\Form1.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp_QuanLyBanHang\\Form1.cs",
-              "ToolTip": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang\\Form1.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp_QuanLyBanHang\\Form1.cs [Design]",
+              "DocumentIndex": 5,
+              "Title": "frmDMNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang\\frmDMNhanVien.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp_QuanLyBanHang\\frmDMNhanVien.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang\\frmDMNhanVien.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp_QuanLyBanHang\\frmDMNhanVien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T13:45:47.579Z",
+              "WhenOpened": "2025-06-28T14:51:27.294Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmHoaDonBan.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang\\frmHoaDonBan.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp_QuanLyBanHang\\frmHoaDonBan.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang\\frmHoaDonBan.cs",
+              "RelativeToolTip": "WindowsFormsApp_QuanLyBanHang\\frmHoaDonBan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T15:29:43.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp_QuanLyBanHang\\Program.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp_QuanLyBanHang\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T15:17:45.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmDMHangHoa.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang\\frmDMHangHoa.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp_QuanLyBanHang\\frmDMHangHoa.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\WindowsFormsApp_QuanLyBanHang\\WindowsFormsApp_QuanLyBanHang\\frmDMHangHoa.cs",
+              "RelativeToolTip": "WindowsFormsApp_QuanLyBanHang\\frmDMHangHoa.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T16:36:27.923Z",
+              "EditorCaption": ""
             }
           ]
         }
